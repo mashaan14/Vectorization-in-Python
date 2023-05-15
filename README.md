@@ -5,3 +5,6 @@ For any questions about this notebook, please email me on __[mashaan.awad@outloo
 
 ## Vectorization_01.ipynb
 This example shows a vectorized way on how to compute the distance from points to the centroids in $k$-means clustering.
+
+## Vectorization_02.ipynb
+This example shows a simple problem of propagating labels from $k$-means centroids to the rest of the dataset. A label will be assigned simply based on the minimum distance.
